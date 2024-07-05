@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/itzTerra/django-tabs"
   },
+  "icon": "resources/img/icon.png",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -30,10 +31,7 @@
 			{
 				"command": "djangoTabs.refresh",
 				"title": "Refresh",
-				"icon": {
-					"light": "resources/light/refresh.svg",
-					"dark": "resources/dark/refresh.svg"
-				}
+				"icon": "$(refresh)"
 			}
     ],
     "menus": {
