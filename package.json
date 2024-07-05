@@ -4,6 +4,10 @@
   "description": "Simple tabs in the Explorer container for quick navigation between your Django app model, serializer, view, and url files",
   "version": "1.0.0",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itzTerra/django-tabs"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
