@@ -2,6 +2,9 @@
   "name": "django-tabs",
   "displayName": "Django Tabs",
   "description": "Simple tabs in the Explorer container for quick navigation between your Django app model, serializer, view, and url files",
+  "author": {
+    "name": "Michal Doležel"
+  },
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
